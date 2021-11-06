@@ -1,0 +1,4 @@
+*.user
+.vs/
+ExtensionMethods/bin/
+ExtensionMethods/obj/
